@@ -24,7 +24,7 @@ npm run dev
 
 ## 📷 Screenshot
 
-![Alt text](image.png)
+![Alt text](./screenshots/image.png)
 
 ---
 
