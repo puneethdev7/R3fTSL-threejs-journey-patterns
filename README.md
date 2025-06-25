@@ -18,6 +18,7 @@ Clone the project and run locally:
 ```bash
 npm install
 npm run dev
+```
 
 ---
 
