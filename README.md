@@ -22,6 +22,12 @@ npm run dev
 
 ---
 
+## 📷 Screenshot
+
+![Alt text](image.png)
+
+---
+
 ## 🎨 Features
 
 - 🔁 Real-time shader pattern switching via Tweakpane
